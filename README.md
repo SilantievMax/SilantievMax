@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Привет я Максим и ты сейчас на моем профиле GitHab<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Junior Frontend- developer</h3>
 
-<!--
-**SilantievMax/SilantievMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой путь в программировании начался в 2019 году, занимался написанием сайтов, лэндингов и ботов для Telegram, а также брал пару заказов на фриланс по парсингу. Начал писать приложение-дневник для университета, в котором учусь. Сейчас хочу быть Frontend-developer, в дальнейшем планирую перейти в Backend.
 
-Here are some ideas to get you started:
+## Навыки:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Основной stack:
+  - React JS
+  - JavaScript
+  - HTML
+  - CSS
+  - Python
+  - Git
+  - Docker
+  - Linux
+  - Figma
+- Дополнительный stack:
+  - Django
+  - Flask
+  - биб. OpenLayers
+
+## Проекты:
+[weather-app](https://github.com/SilantievMax/weather-app)
+
+## Достижения:
+[WorlSkills](https://disk.yandex.ru/d/SrDGvmmwmKgXAgv)
