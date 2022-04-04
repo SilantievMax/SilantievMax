@@ -21,7 +21,33 @@
   - биб. OpenLayers
 
 ## Проекты:
-[weather-app](https://github.com/SilantievMax/weather-app)
+
+> ### Приложение погода
+>  
+> :white_check_mark: Уже закончен (Март 2022)
+> 
+> Описание:
+> 
+> >  В этом приложении вы можете узнать погоду в любом городе.
+> >  Показывет актуальную температуру, давление, влажность, скорость ветра, атмосферное давления и время восхода и заката солнца.
+> 
+> Стек технологий:
+> > HTML5, CSS3, React js
+> 
+> [Ссылка на проект](https://github.com/SilantievMax/weather-app)
+
+> ### Сайт, отель Lagoona
+>  
+> :negative_squared_cross_mark: В разработке (2022)
+>
+> Описание:
+> 
+> > Сайт сделан по макету из [figma](https://www.figma.com/file/tjkkfkHDXlGscyVbS3emln/Lagoona?node-id=0%3A1)
+> 
+> Стек технологий:
+> > HTML5, CSS3
+> 
+> [Ссылка на проект](https://github.com/SilantievMax/lagoona)
 
 ## Достижения:
 [WorlSkills](https://disk.yandex.ru/d/SrDGvmmwmKgXAgv)
