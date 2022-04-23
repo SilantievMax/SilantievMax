@@ -5,26 +5,47 @@
 
 ## Навыки:
 
-- Основной stack:
-  - React JS
-  - JavaScript
+- Основной стек:
   - HTML
   - CSS
+  - JavaScript
   - Python
   - Git
-  - Docker
   - Linux
   - Figma
-- Дополнительный stack:
-  - Django
-  - Flask
-  - биб. OpenLayers
 
 ## Проекты:
 
+> ### Сайт, отель Evklid
+>  
+> :negative_squared_cross_mark: В разработке
+>
+> Описание:
+> 
+> > Сайт сделан по макету из [figma](https://www.figma.com/file/9ZBnSDaQlGmp4CcvgxVQwR/Cld?node-id=160%3A1052).
+> > Резиновая адаптивная верстка, для расположения блоков на сайте был использован flexbox. Для реализации слайдера была использована библиотека Swiperjs, для реализации аккордеона jquery, а бургер написан на чистом js.
+> 
+> Стек технологий:
+> > HTML5, CSS3, JavaScript, Swiper, jquery
+> 
+> [Ссылка на проект](https://github.com/SilantievMax/Evklid)
+
+> ### Сайт, отель Lagoona
+>  
+> :white_check_mark: Уже закончен
+>
+> Описание:
+> 
+> > Сайт сделан по макету из [figma](https://www.figma.com/file/tjkkfkHDXlGscyVbS3emln/Lagoona?node-id=0%3A1)
+> 
+> Стек технологий:
+> > HTML5, CSS3
+> 
+> [Ссылка на проект](https://github.com/SilantievMax/lagoona)
+
 > ### Приложение погода
 >  
-> :white_check_mark: Уже закончен (Март 2022)
+> :white_check_mark: Уже закончен
 > 
 > Описание:
 > 
@@ -36,18 +57,7 @@
 > 
 > [Ссылка на проект](https://github.com/SilantievMax/weather-app)
 
-> ### Сайт, отель Lagoona
->  
-> :negative_squared_cross_mark: В разработке (2022)
->
-> Описание:
-> 
-> > Сайт сделан по макету из [figma](https://www.figma.com/file/tjkkfkHDXlGscyVbS3emln/Lagoona?node-id=0%3A1)
-> 
-> Стек технологий:
-> > HTML5, CSS3
-> 
-> [Ссылка на проект](https://github.com/SilantievMax/lagoona)
+
 
 ## Достижения:
 [WorlSkills](https://disk.yandex.ru/d/SrDGvmmwmKgXAgv)
