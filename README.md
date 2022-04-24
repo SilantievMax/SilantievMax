@@ -16,7 +16,7 @@
 
 ## Проекты:
 
-> ### Сайт, отель Evklid
+> ### Сайт Evklid
 >  
 > :negative_squared_cross_mark: В разработке
 >
