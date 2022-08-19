@@ -8,10 +8,12 @@
   - HTML
   - CSS
   - JavaScript
+  - React
   - Python
   - Git
   - Linux
   - Figma
+  
 
 ## Проекты:
 
