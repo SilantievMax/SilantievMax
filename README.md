@@ -2,6 +2,7 @@
 <h3 align="center">Junior Frontend- developer</h3>
 
 
+<!--  
 ## Навыки:
 
 - Основной стек:
@@ -9,11 +10,12 @@
   - CSS
   - JavaScript
   - React
+  - Tailwind
   - Python
   - Git
   - Linux
   - Figma
-  
+
 
 ## Проекты:
 
@@ -87,4 +89,4 @@
 
 
 ## Достижения:
-[WorlSkills](https://disk.yandex.ru/d/SrDGvmmwmKgXAgv)
+[WorlSkills](https://disk.yandex.ru/d/SrDGvmmwmKgXAgv) -->
