@@ -1,21 +1,21 @@
 <h1 align="center">Привет, я Максим, и ты сейчас на моем профиле GitHab<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Frontend- developer</h3>
-<h6 align="center">HTML5, CCS3, SCSS, БЭМ, JavaScript, Gulp, Tailwind, ReactJs, NodeJs, REST API, GIT, Python, Linux, Figma</h6>
+<h4 align="center">HTML5, CCS3, SCSS, БЭМ, JavaScript, Gulp, Tailwind, ReactJs, NodeJs, REST API, GIT, Python, Linux, Figma</h4>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SilantievMax/img/main/html.png" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/css-3.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/sass.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/cap-bem.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/java-script.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/drink.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/tailwind.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/atom.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/node-js.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/api.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/git.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/python.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/linux.png?raw=true" width="42">
-  <img src="https://github.com/SilantievMax/img/blob/main/figma.png?raw=true" width="42">
+  <img src="https://raw.githubusercontent.com/SilantievMax/img/main/html.png" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/css-3.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/sass.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/cap-bem.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/java-script.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/drink.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/tailwind.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/atom.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/node-js.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/api.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/git.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/python.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/linux.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/figma.png?raw=true" width="43">
 </div>
 
 
