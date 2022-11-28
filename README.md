@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Максим, и ты сейчас на моем профиле GitHab<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend- developer</h3>
+<h2 align="center">Junior Frontend- developer</h2>
 <h4 align="center">HTML5, CCS3, SCSS, БЭМ, JavaScript, Gulp, Tailwind, ReactJs, NodeJs, REST API, GIT, Python, Linux, Figma</h4>
 <div align="center">
   <img src="https://raw.githubusercontent.com/SilantievMax/img/main/html.png" width="43">
