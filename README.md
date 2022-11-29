@@ -1,12 +1,13 @@
 <h1 align="center">Привет, я Максим, и ты сейчас на моем профиле GitHab<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Junior Frontend- developer</h2>
-<h4 align="center">HTML5, CCS3, SCSS, БЭМ, JavaScript, Gulp, Tailwind, ReactJs, NodeJs, REST API, GIT, Python, Linux, Figma</h4>
+<h4 align="center">HTML5, CCS3, SCSS, БЭМ, JavaScript, TypeScript, Gulp, Tailwind, ReactJs, NodeJs, REST API, GIT, Python, Linux, Figma</h4>
 <div align="center">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/html.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/css-3.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/sass.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/cap-bem.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/java-script.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/technologies/typescript.png?raw=true)" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/drink.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/tailwind.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/atom.png?raw=true" width="43">
