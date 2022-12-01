@@ -24,6 +24,8 @@
 [Lagoona - сайта для отеля](https://silantievmax.github.io/lagoona/) <br>
 [Evklid - проектные системы](https://silantievmax.github.io/Evklid/)<br>
 [Игра в парочки на чистом js](https://silantievmax.github.io/couples/)<br>
+[Кастомные элементы страницы](https://silantievmax.github.io/interactiveElements/)<br>
+[CRM REST API - baccand ](https://github.com/SilantievMax/CRM)<br>
 
 <!--  
 ## Навыки:
