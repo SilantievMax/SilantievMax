@@ -25,6 +25,7 @@
 [Evklid - проектные системы](https://silantievmax.github.io/Evklid/)<br>
 [Игра в парочки на чистом js](https://silantievmax.github.io/couples/)<br>
 [Кастомные элементы страницы](https://silantievmax.github.io/interactiveElements/)<br>
+[Todo-react](https://silantievmax.github.io/todo-react/)<br>
 [CRM REST API - baccand ](https://github.com/SilantievMax/CRM)<br>
 
 <!--  
