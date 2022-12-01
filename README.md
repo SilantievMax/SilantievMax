@@ -19,6 +19,10 @@
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/figma.png?raw=true" width="43">
 </div>
 
+Проеты:
+
+[Lagoona - сайта для отеля](https://silantievmax.github.io/lagoona/) <br>
+[Evklid - проектные системы](https://silantievmax.github.io/Evklid/)
 
 <!--  
 ## Навыки:
