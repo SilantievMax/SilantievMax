@@ -22,6 +22,7 @@
 Проеты:
 
 [Lagoona - сайта для отеля](https://silantievmax.github.io/lagoona/) <br>
+[Parallax Gallery](https://silantievmax.github.io/parallax-gallery/) <br>
 [Evklid - проектные системы](https://silantievmax.github.io/Evklid/)<br>
 [Игра в парочки на чистом js](https://silantievmax.github.io/couples/)<br>
 [Кастомные элементы страницы](https://silantievmax.github.io/interactiveElements/)<br>
