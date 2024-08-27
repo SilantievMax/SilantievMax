@@ -19,7 +19,7 @@
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/figma.png?raw=true" width="43">
 </div>
 
-Проеты:
+<!-- Проеты:
 
 [Lagoona - сайта для отеля](https://silantievmax.github.io/lagoona/) <br>
 [Parallax Gallery](https://silantievmax.github.io/parallax-gallery/) <br>
@@ -28,6 +28,7 @@
 [Кастомные элементы страницы](https://silantievmax.github.io/interactiveElements/)<br>
 [Todo-react](https://silantievmax.github.io/todo-react/)<br>
 [CRM REST API - baccand ](https://github.com/SilantievMax/CRM)<br>
+-->
 
 <!--  
 ## Навыки:
