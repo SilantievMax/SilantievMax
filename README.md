@@ -11,7 +11,9 @@
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/drink.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/tailwind.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/atom.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/technologies/next.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/node-js.png?raw=true" width="43">
+  <img src="https://github.com/SilantievMax/img/blob/main/technologies/nestjs.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/api.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/git.png?raw=true" width="43">
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/python.png?raw=true" width="43">
@@ -19,7 +21,46 @@
   <img src="https://github.com/SilantievMax/img/blob/main/technologies/figma.png?raw=true" width="43">
 </div>
 
-<!-- Проеты:
+<h2 align="center"></h2>
+
+
+
+
+> [!NOTE]
+> Основной технический стек:
+>> Tailwind, TypeScript, ReactJs, NextJs, NestJs,
+>> 
+>> Redux/toolkit, Zustand, Axios, React Query, React-hook-form
+
+> [!TIP]
+> Из последних моих проектов:
+>> https://icegames.store/ - Гейм индустрия
+>> 
+>> https://t.me/TheCountryBalls_bot - Игра кликер в Телеграмм
+
+> [!IMPORTANT]
+> Посмотреть мой код:
+>> https://github.com/SilantievMax/next-pizza
+>> 
+>> https://github.com/SilantievMax/scheduler-frontend
+>> 
+>> https://github.com/SilantievMax/scheduler-backend
+>>
+>> https://github.com/SilantievMax/ivi-next
+>>
+>> https://github.com/SilantievMax/react-ts-store
+>>
+>> https://github.com/SilantievMax/posgresql-nodejs
+>>
+>> https://github.com/SilantievMax/CRM
+
+<!-- 
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+Проеты:
 
 [Lagoona - сайта для отеля](https://silantievmax.github.io/lagoona/) <br>
 [Parallax Gallery](https://silantievmax.github.io/parallax-gallery/) <br>
