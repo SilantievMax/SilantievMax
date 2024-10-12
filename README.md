@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Максим и ты сейчас на моем профиле GitHab<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, я Максим и ты сейчас на моем профиле GitHub<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Fullstack- developer</h2>
 <h4 align="center">HTML5, CCS3, SCSS, БЭМ, JavaScript, TypeScript, Gulp, Tailwind, ReactJs, NextJs, NodeJs, NestJs, REST API, GIT, Python, Linux, Figma</h4>
 <div align="center">
