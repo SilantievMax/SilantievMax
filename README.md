@@ -34,7 +34,7 @@
 
 > [!TIP]
 > Из последних моих проектов:
->> https://icegames.store/ - Интернет магазин 
+>> https://icegames.store/ - Интернет магазин/игровой портал
 >> 
 >> https://t.me/TheCountryBalls_bot - Игра кликер в Телеграмм
 
