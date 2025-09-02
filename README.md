@@ -23,14 +23,9 @@
 
 <h2 align="center"></h2>
 
-
-
-
 > [!NOTE]
 > Основной технический стек:
->> Tailwind, TypeScript, ReactJs, NextJs, NestJs,
->> 
->> Redux/toolkit, Zustand, Axios, React Query, React-hook-form
+>> Tailwind, NextJs, NestJs, Prisma, Zustand, TanStack Query, TypeScript
 
 > [!TIP]
 > Из последних моих проектов:
@@ -75,15 +70,12 @@
 ## Навыки:
 
 - Основной стек:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
   - Tailwind
-  - Python
-  - Git
-  - Linux
-  - Figma
+  - Next
+  - TanStack Query
+  - Nest
+  - Prisma
+  - TypeScript
 
 
 ## Проекты:
